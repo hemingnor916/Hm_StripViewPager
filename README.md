@@ -1,7 +1,8 @@
 # Hm_StripViewPager
 简单几个步骤实现带标题的ViewPager A few steps to make a ViewPager with titles.
 
-![Image text](https://github.com/hemingnor916/Hm_StripViewPager/blob/master/demo/demo.png?raw=true)
+![Image text](https://github.com/hemingnor916/Hm_StripViewPager/blob/master/demo/demo.png?raw=true)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
 
 step 1:
 Copy the file "Hm_StripViewPager.java" to your project .
